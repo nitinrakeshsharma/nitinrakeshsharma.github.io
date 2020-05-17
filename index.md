@@ -26,7 +26,7 @@
 </h3>
 
 ```markdown
-My Skills which leverage you for makn
+My Skills which leverage you in a way!!
 ✅ Catering
 ✅ Communication
 ✅ Customer Service
@@ -46,7 +46,7 @@ Beginning my career in one of the largest hotel of India the ITC Sonar and Royal
 <strong>Location : Taj Krishna - Hyderabad</strong>
 I had have done my intership from hotel Taj krishna,Hyderabad.I had done my duties as a intern.I worked in all the four majour     departments which is Food Profuction, Food and Beverage, Housekeeping and Front Office.And understood their trends and SOP's. 
 
-### My Values comes from GURUKUL from where i learned hospitality.
+### My Values comes from GURUKUL , where i learned hospitality.
 
 ```markdown
 [IHM Gurudaspur](https://www.ihmgurdaspur.org/)
