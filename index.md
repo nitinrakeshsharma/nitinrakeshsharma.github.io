@@ -51,8 +51,7 @@ I had have done my intership from hotel Taj krishna,Hyderabad.I had done my duti
 ```markdown
 [IHM Gurudaspur](https://www.ihmgurdaspur.org/)
 About Course - Bsc in Hospitality and Hotel Administration.
-A degree course includes the study of all majour departments of hotel.And also teaches the skill of managment.
-```
+A degree course includes the study of all majour departments of hotel.```
 
 ## Please Feel Free to Contact me :
 ### @nsrakeshsharma786@gmail.com
@@ -78,6 +77,10 @@ A degree course includes the study of all majour departments of hotel.And also t
   <span class="dot" ></span> 
 </div>
 <script>
+window.onload = function() {
+  document.getElementsByTagName('footer')[0].style.display = 'none';
+};
+
 var slideIndex = 0;
 showSlides();
 
