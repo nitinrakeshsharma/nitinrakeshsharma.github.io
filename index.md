@@ -1,8 +1,8 @@
 ## Welcome to Nitin Sharma's Portfolio.
-[![Linkedin](https://img.shields.io/badge/Linkedin-NitinSharma-<RED>.svg)](https://www.linkedin.com/in/hoteliernitinsharma/)
-[![Facebook](https://img.shields.io/badge/Facebook-NitinSharma-<BLUE>.svg)](https://www.facebook.com/people/Nitin-Sharma/100007577255196)
+[![Linkedin](https://img.shields.io/badge/Linkedin-NitinSharma-<red>.svg)](https://www.linkedin.com/in/hoteliernitinsharma/)
+[![Facebook](https://img.shields.io/badge/Facebook-NitinSharma-<blue>.svg)](https://www.facebook.com/people/Nitin-Sharma/100007577255196)
 <br>
-<strong>J'espère que vous aimez | Spero ti piaccia | Надеюсь, вам понравится </strong>
+<strong>J'espère que vous aimez | Spero ti piaccia | Hope you like it </strong>
 <style> 
  #nitin{
   position: relative;
@@ -57,7 +57,6 @@ I had have done my intership from hotel Taj krishna,Hyderabad.I had done my duti
 
 ```markdown
 [IHM Gurudaspur](https://www.ihmgurdaspur.org/)
-<br>
 About Course - Bsc in Hospitality and Hotel Administration.
 A degree course includes the study of all majour departments of hotel.
 ```
