@@ -44,6 +44,7 @@ Beginning my career in one of the largest hotel of India the ITC Sonar and Royal
 - [TAJ Group of Hotels](https://www.tajhotels.com/en-in/taj/taj-krishna-hyderabad/)
 <strong>Designation: Intern</strong>
 <strong>Location : Taj Krishna - Hyderabad</strong>
+
 I had have done my intership from hotel Taj krishna,Hyderabad.I had done my duties as a intern.I worked in all the four majour     departments which is Food Profuction, Food and Beverage, Housekeeping and Front Office.And understood their trends and SOP's. 
 
 ### My Values comes from GURUKUL from where i learned hospitality.
