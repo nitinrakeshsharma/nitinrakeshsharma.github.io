@@ -68,21 +68,30 @@ A degree course includes the study of all majour departments of hotel.
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 2</div>
+  <div class="numbertext">1 / 3</div>
   <img src="images/itc.jpg" style="width:100%">
   <div class="text" style="color:black;">ITC Royal Bengal</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 2</div>
+  <div class="numbertext">2 / 3</div>
   <img src="images/taj.jpeg" style="width:100%">
   <div class="text" style="color:black;">Taj Krishna</div>
 </div>
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="images/college.jpg" style="width:100%">
+  <div class="text" style="color:black;">IHM Gurdaspur</div>
+</div>
+
+
+
 </div>
 <br>
 <div style="text-align:center">
   <span class="dot" ></span> 
   <span class="dot" ></span> 
+ <span class="dot" ></span> 
 </div>
 <script>
 window.onload = function() {
