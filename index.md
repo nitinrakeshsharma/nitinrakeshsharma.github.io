@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Welcome to Nitin Sharma's Portfolio.
+[![Linkedin](https://img.shields.io/badge/Linkedin-NitinSharma-<RED>.svg)](https://www.linkedin.com/in/hoteliernitinsharma/)
+J'espère que vous aimez | Spero ti piaccia | Надеюсь, вам понравится
 
-You can use the [editor on GitHub](https://github.com/nitinrakeshsharma/nitinrakeshsharma.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="nitin.jpeg" style="width:50%;height:50%;border-radius:50%">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 💯Welcoming you all here!!!: 
+<h3>
+  <strong>Namaskar!.</strong>A hotelier with dream to serve kindness and love to my guests.And creating an experience like they every time feel while sitting in thier home.My job is my world thats why i love it and passionately want to devote my life toward it. 
+</h3>
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+My Skills which leverage you for makn
+### ✅ Catering
+### ✅ Communication
+### ✅ Customer Service
+### ✅ Communication
+### ✅ Public Speaking
+### ✅ Making People comfortable around my place and around me🙂
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Workaholic Nature Helped Me getting These Wonderful Experiences.
+- [ITC Hotels](https://www.itchotels.in/hotels/kolkata/itcroyalbengal.html)
+<img src="itc.jpg" style="width:30%;height:30%;border-radius:50%;">
+Designation: H.O.T
+Location : ITC Sonar,Royal Bengal , Kolkata
+Beginning my career in one of the largest hotel of India the ITC Sonar and Royal Bengal as a F&B personal. 
 
-### Jekyll Themes
+- [TAJ Group of Hotels](https://www.tajhotels.com/en-in/taj/taj-krishna-hyderabad/)
+<img src="taj.jpeg" style="width:30%;height:30%;border-radius:50%;">
+Designation: Intern
+Location : Taj Krishna - Hyderabad
+I had have done my intership from hotel Taj krishna,Hyderabad.I had done my duties as a intern.I worked in all the four majour     departments which is Food Profuction, Food and Beverage, Housekeeping and Front Office.And understood their trends and SOP's. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nitinrakeshsharma/nitinrakeshsharma.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### My Values comes from GURUKUL from where i learned hospitality.
+[IHM Gurudaspur](https://www.ihmgurdaspur.org/)
+About Course - Bsc in Hospitality and Hotel Administration.
+A degree course includes the study of all majour departments of hotel.And also teaches the skill of managment.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Please Feel Free to Contact me :
+### @nsrakeshsharma786@gmail.com
