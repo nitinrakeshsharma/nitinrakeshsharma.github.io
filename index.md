@@ -1,8 +1,9 @@
 ## Welcome to Nitin Sharma's Portfolio.
 [![Linkedin](https://img.shields.io/badge/Linkedin-NitinSharma-<RED>.svg)](https://www.linkedin.com/in/hoteliernitinsharma/)
+
 J'espère que vous aimez | Spero ti piaccia | Надеюсь, вам понравится
 
-<img src="nitin.jpeg" style="width:50%;height:50%;border-radius:50%">
+<img src="images/nitin.jpeg" style="width:50%;height:50%;border-radius:50%">
 
 ### 💯Welcoming you all here!!!: 
 <h3>
@@ -21,13 +22,13 @@ My Skills which leverage you for makn
 
 ### Workaholic Nature Helped Me getting These Wonderful Experiences.
 - [ITC Hotels](https://www.itchotels.in/hotels/kolkata/itcroyalbengal.html)
-<img src="itc.jpg" style="width:30%;height:30%;border-radius:50%;">
+<img src="images/itc.jpg" style="width:30%;height:30%;border-radius:50%;">
 Designation: H.O.T
 Location : ITC Sonar,Royal Bengal , Kolkata
 Beginning my career in one of the largest hotel of India the ITC Sonar and Royal Bengal as a F&B personal. 
 
 - [TAJ Group of Hotels](https://www.tajhotels.com/en-in/taj/taj-krishna-hyderabad/)
-<img src="taj.jpeg" style="width:30%;height:30%;border-radius:50%;">
+<img src="images/taj.jpeg" style="width:30%;height:30%;border-radius:50%;">
 Designation: Intern
 Location : Taj Krishna - Hyderabad
 I had have done my intership from hotel Taj krishna,Hyderabad.I had done my duties as a intern.I worked in all the four majour     departments which is Food Profuction, Food and Beverage, Housekeeping and Front Office.And understood their trends and SOP's. 
