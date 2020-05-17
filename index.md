@@ -1,6 +1,7 @@
 ## Welcome to Nitin Sharma's Portfolio.
 [![Linkedin](https://img.shields.io/badge/Linkedin-NitinSharma-<RED>.svg)](https://www.linkedin.com/in/hoteliernitinsharma/)
-
+[![Facebook](https://img.shields.io/badge/Facebook-NitinSharma-<BLUE>.svg)](https://www.facebook.com/people/Nitin-Sharma/100007577255196)
+<br>
 <strong>J'espère que vous aimez | Spero ti piaccia | Надеюсь, вам понравится </strong>
 <style> 
  #nitin{
@@ -37,19 +38,26 @@ My Skills which leverage you in a way!!
 
 ### Workaholic Nature Helped Me getting These Wonderful Experiences.
 - [ITC Hotels](https://www.itchotels.in/hotels/kolkata/itcroyalbengal.html)
+<br>
 <strong>Designation: H.O.T</strong>
+<br>
 <strong>Location : ITC Sonar,Royal Bengal , Kolkata</strong>
+<br>
 Beginning my career in one of the largest hotel of India the ITC Sonar and Royal Bengal as a F&B personal. 
 
 - [TAJ Group of Hotels](https://www.tajhotels.com/en-in/taj/taj-krishna-hyderabad/)
+<br>
 <strong>Designation: Intern</strong>
+<br>
 <strong>Location : Taj Krishna - Hyderabad</strong>
+<br>
 I had have done my intership from hotel Taj krishna,Hyderabad.I had done my duties as a intern.I worked in all the four majour     departments which is Food Profuction, Food and Beverage, Housekeeping and Front Office.And understood their trends and SOP's. 
 
 ### My Values comes from GURUKUL , where i learned hospitality.
 
 ```markdown
 [IHM Gurudaspur](https://www.ihmgurdaspur.org/)
+<br>
 About Course - Bsc in Hospitality and Hotel Administration.
 A degree course includes the study of all majour departments of hotel.
 ```
